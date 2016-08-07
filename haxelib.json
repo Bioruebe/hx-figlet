@@ -1,0 +1,11 @@
+{
+  "name": "figlet",
+  "license": "MIT",
+  "classPath": "src/",
+  "tags": ["cross", "utility", "cli"],
+  "description": "A basic parser for FIGlet fonts.",
+  "contributors": ["bioruebe"],
+  "releasenote": "Initial release",
+  "version": "1.0.0",
+  "url": "https://github.com/bioruebe/hx-figlet"
+}
